@@ -1,0 +1,2 @@
+WP-Simple-Bilingual
+===================
